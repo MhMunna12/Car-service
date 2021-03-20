@@ -1,0 +1,25 @@
+.login-container{
+    
+   
+    border: 1px solid grey;
+    width: 400px;
+    padding: 20px;
+    margin:50px 450px;
+}
+.login{
+    text-align: center
+}
+
+.submit{
+    background-color:tomato;
+    width:300px;
+    border: none;
+    color: white;
+}
+
+.google button{
+    padding: 5px 45px;
+    border-radius: 20px;
+    border: lightgray;
+    
+}

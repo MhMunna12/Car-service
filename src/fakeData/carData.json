@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "name":"Bike",
+    "seat": 3,
+    "price":80,
+    "image":"https://www.drivespark.com/images/2019-08/suzuki-gixxer-sf-250-motogp-5.jpg"
+  }, {
+    "id": 1,
+    "name":"Car",
+    "seat": 3,
+    "price":70,
+    "image":"https://images.ctfassets.net/ro7z507xvlp4/6VE6CpObJe6qyHHYEzb81X/a6c2752bc9cede65b958ddbe8521af2c/mb_gla_1x.png?q=80&fm=png"
+  }, {
+    "id": 1,
+    "name":"Bus",
+    "seat": 3,
+    "price":54,
+    "image":"https://s1.1zoom.me/prev2/597/Hyundai_Bus_County_Electric_2020_White_background_596895_598x450.jpg"
+  }, {
+    "id": 1,
+    "name":"Train",
+    "seat": 3,
+    "price":40,
+    "image":"https://www.clipartkey.com/mpngs/m/52-528470_trains-cliparts-metro-train-clipart-black-and-white.png"
+  }]

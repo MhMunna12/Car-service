@@ -46,7 +46,7 @@ const RiderDetails = () => {
                 }
 
             </div>
-            <div className="col-md-8 mt-4 map">
+            <div className="col-md-8  mt-4 map">
                 <img src={Map} alt=""/>
             </div>
         </div>

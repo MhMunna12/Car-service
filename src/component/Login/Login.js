@@ -119,11 +119,11 @@ const Login = () => {
         });
     }
     return (
-        <div>
+        <div className="">
             <div className="login-container">
                 <h3>{newUser?'Create an account':'Login'}</h3>
-                <div className="login">
-                <form onSubmit={handleSubmit}>
+                <div className="login ">
+                <form onSubmit={handleSubmit} className="">
                     {newUser && <input type="text" name="name" onBlur={handleBlur} className="form-control" placeholder="Your Name" />}
                 <br/>
                 <input type="text" name="email" onBlur={handleBlur} className="form-control" placeholder="Email" required/>

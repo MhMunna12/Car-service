@@ -9,8 +9,7 @@ const Home = () => {
         setCar(carData);
     })
     return (
-        <div className="background-image">
-           
+        <div>
             <div className="row">
             {
                 cars.map(car => <Rider car={car} ></Rider>)

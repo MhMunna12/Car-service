@@ -2,11 +2,12 @@ import React, { useContext } from 'react';
 import {Navbar,Nav} from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { UserContext } from '../../App';
+import './Header.css';
 const Header = () => {
     const [loggedInUser, seTLoggedInUser] = useContext(UserContext);
     return (
-        <div className="background">
-            <Navbar bg="light" variant="light">
+        <div >
+            <Navbar className="background" bg="light" variant="light">
                 <Nav className="mr-auto">
                 <h4>City Service</h4>
                 </Nav>
